@@ -7,10 +7,10 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: andrei.zaloilo@tse-fr.eu
+    link: '"andrei.zaloilo@tse-fr.eu"'
   - icon: cv
     icon_pack: ai
-    link: CV Andrei Zaloilo.pdf
+    link: upload/CV Andrei Zaloilo.pdf
 organizations: []
 education:
   courses: []
