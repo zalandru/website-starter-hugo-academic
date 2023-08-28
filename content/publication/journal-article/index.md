@@ -2,7 +2,8 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Pablo Mileni Munari
+- Wenxuan Xu
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
