@@ -13,7 +13,7 @@ abstract: Firms hire workers from different pools. Some firms hire more
   volatility, I develop a labor search model with partial separation of search
   and heterogeneous wage rigidity and show that accounting for this
   heterogeneity increases the volatility of unemployment by 14%-34%.
-draft: true
+draft: false
 slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 summary: ""
@@ -35,7 +35,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
