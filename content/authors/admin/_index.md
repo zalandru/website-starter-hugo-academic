@@ -10,7 +10,7 @@ social:
     link: andrei.zaloilo@tse-fr.eu
   - icon: cv
     icon_pack: ai
-    link: assets/media/cv-andrei-zaloilo.pdf
+    link: upload/CV Andrei Zaloilo.pdf
 superuser: true
 status:
   icon: ☕️
