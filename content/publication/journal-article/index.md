@@ -3,11 +3,11 @@ title: "What Falls During a Recession - The Three Margins of Employment Insuranc
 authors:
 - admin
 - Pablo Mileni Munari
-- Wenxuan Xu
+# - Wenxuan Xu
  author_notes:
  - "Equal contribution"
  - "Equal contribution"
- - "Equal contribution"
+# - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
