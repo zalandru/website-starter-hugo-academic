@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "What Falls During a Recession - The Three Margins of Employment Insurance"
 authors:
 - admin
-- Robert Ford
+- Pablo Mileni Munari
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -22,7 +22,14 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Firms possess control over key determinants of workers’ earnings: wages,
+hours worked, and employment stability. As workers would rather all three remain
+stable over the business cycle, firms face a choice as to how to insure their workers.
+Empirically, firms at the bottom of the wage ladder are found to insure workers through
+wages, while the top - through stable hours and employment. We suggest a higher level
+of labor replaceability at the bottom of the ladder as the driving cause of this hetero-
+geneity and argue for it using a dynamic contracting framework with a promised value
+constraint imbedded into a directed search model.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -74,3 +81,5 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
