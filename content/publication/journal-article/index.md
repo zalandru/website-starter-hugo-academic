@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "What Falls During a Recession - The Three Margins of Employment Insurance"
 authors:
 - admin
 - Pablo Mileni Munari
@@ -7,7 +7,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "*Journal of Source Themes, 1*(1)"
-#publication_short: ""
+# publication: "*Journal of Source Themes, 1*(1)"
+# publication_short: ""
 
 abstract: Firms possess control over key determinants of workers’ earnings: wages,
 hours worked, and employment stability. As workers would rather all three remain
@@ -33,7 +33,7 @@ geneity and argue for it using a dynamic contracting framework with a promised v
 constraint imbedded into a directed search model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
