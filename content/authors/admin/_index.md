@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: andrei.zaloilo@tse-fr.eu
+    link: (andrei.zaloilo@tse-fr.eu)
   - icon: cv
     icon_pack: ai
     link: upload/CV Andrei Zaloilo.pdf
@@ -27,5 +27,5 @@ My research focuses on macroeconomics and labor economics.
 
 This semester I will be visiting the Economics Department of the [University of Pennsylvania](https://economics.sas.upenn.edu).
 
-Feel free to reach out: andrei.zaloilo@tse-fr.eu
+Feel free to reach out: [andrei.zaloilo@tse-fr.eu](mailto:andrei.zaloilo@tse-fr.eu)
 <!--EndFragment-->
