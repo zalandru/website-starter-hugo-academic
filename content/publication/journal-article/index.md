@@ -22,14 +22,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Firms possess control over key determinants of workers’ earnings: wages,
-hours worked, and employment stability. As workers would rather all three remain
-stable over the business cycle, firms face a choice as to how to insure their workers.
-Empirically, firms at the bottom of the wage ladder are found to insure workers through
-wages, while the top - through stable hours and employment. We suggest a higher level
-of labor replaceability at the bottom of the ladder as the driving cause of this hetero-
-geneity and argue for it using a dynamic contracting framework with a promised value
-constraint imbedded into a directed search model.
+abstract: Firms possess control over key determinants of workers’ earnings: wages, hours worked, and employment stability. As workers would rather all three remain stable over the business cycle, firms face a choice as to how to insure their workers. Empirically, firms at the bottom of the wage ladder are found to insure workers through wages, while the top - through stable hours and employment. We suggest a higher level of labor replaceability at the bottom of the ladder as the driving cause of this heterogeneity and argue for it using a dynamic contracting framework with a promised value constraint imbedded into a directed search model.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
