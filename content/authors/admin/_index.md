@@ -7,10 +7,10 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: andrei.zaloilo@tse-fr.eu
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: CV Andrei Zaloilo.pdf
 organizations: []
 education:
   courses: []
@@ -24,9 +24,7 @@ email: andrei.zaloilo@tse-fr.eu
 ---
 <!--StartFragment-->
 
-Welcome!
-
-I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu).
+I am a Ph.D. student [Toulouse School of Economics](https://www.tse-fr.eu).
 
 My research focuses on macroeconomics and labor economics.
 
