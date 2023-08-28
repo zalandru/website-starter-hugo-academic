@@ -15,7 +15,7 @@ abstract: Firms hire workers from different pools. Some firms hire more
   heterogeneity increases the volatility of unemployment by 14%-34%.
 draft: false
 slides: example
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
+url_pdf: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4394727_code5781841.pdf?abstractid=4388232&mirid=1
 summary: ""
 # url_dataset: "#"
 # url_project: ""
@@ -27,9 +27,6 @@ featured: false
 tags: []
 date: 2023-03-15T00:00:00.000Z
 url_slides: ""
-links:
-  - name: Custom Link
-    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
 projects: []
 image:
   caption: ""
