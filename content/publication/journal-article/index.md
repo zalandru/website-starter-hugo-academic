@@ -8,7 +8,7 @@ abstract: "Firms possess control over key determinants of workers' earnings :
   bottom of the ladder as the driving cause of this heterogeneity and argue for
   it using a dynamic contracting framework with a promised value constraint
   imbedded into a directed search model."
-slides: example
+# slides: example
  url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "3"
