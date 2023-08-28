@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: < a href="mailto:john@example.com">John< /a>
+    link: andrei.zaloilo@tse-fr.eu
   - icon: cv
     icon_pack: ai
     link: CV Andrei Zaloilo.pdf
