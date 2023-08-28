@@ -25,7 +25,7 @@ title: Heterogeneous Wage Cyclicality and Unemployment Fluctuations
 publication: ""
 featured: false
 tags: []
-date: 2019-04-07T00:00:00Z
+date: 2023-03-15T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
