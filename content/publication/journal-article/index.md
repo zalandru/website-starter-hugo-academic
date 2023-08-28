@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 title: What Falls During a Recession - The Three Margins of Employment Insurance
 doi: ""
-featured: false
+featured: true
 tags:
   - Source Themes
 projects: []
