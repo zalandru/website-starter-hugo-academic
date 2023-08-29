@@ -31,8 +31,7 @@ abstract: "Firms hire workers from different pools. Some firms hire more
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 links:
