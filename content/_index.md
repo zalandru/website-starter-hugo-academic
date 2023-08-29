@@ -17,7 +17,6 @@ sections:
     id: research
     content:
       title: Research
-    page_type: publication
       text: |-
       filters:
         folders:
