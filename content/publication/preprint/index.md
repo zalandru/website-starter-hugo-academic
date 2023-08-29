@@ -30,7 +30,7 @@ publication: ""
 featured: false
 tags: []
 date: 2023-03-15T00:00:00.000Z
-url_slides: ""
+# url_slides: ""
 projects: []
 image:
   caption: ""
