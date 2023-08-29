@@ -24,6 +24,11 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: list
-
+      view: compact
+      # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+          
 ---
