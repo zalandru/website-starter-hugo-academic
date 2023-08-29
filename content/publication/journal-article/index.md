@@ -9,7 +9,7 @@ abstract: "Firms possess control over key determinants of workers' earnings :
   it using a dynamic contracting framework with a promised value constraint
   imbedded into a directed search model."
 # slides: example
- url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "3"
 authors:
@@ -24,7 +24,7 @@ summary: ""
 publication_short: ""
 # url_source: ""
 # url_video: ""
-title: What Falls During a Recession - The Three Margins of Employment Insurance
+title: "What Falls During a Recession - The Three Margins of Employment Insurance"
 doi: ""
 featured: false
 tags: []
