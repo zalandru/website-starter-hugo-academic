@@ -28,7 +28,7 @@ summary: ""
 title: Heterogeneous Wage Cyclicality and Unemployment Fluctuations
 publication: ""
 featured: false
-# tags: []
+ tags: []
 date: 2023-03-15T00:00:00.000Z
 # url_slides: ""
  projects: []
@@ -39,6 +39,6 @@ date: 2023-03-15T00:00:00.000Z
 publishDate: 2017-01-01T00:00:00.000Z
 # url_poster: "#"
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-# doi: ""
+ doi: ""
 ---
 
