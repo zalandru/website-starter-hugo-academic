@@ -1,4 +1,14 @@
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BP88GFFVGN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BP88GFFVGN');
+</script>
+
 # Leave the homepage title empty to use the site title
 title: Andrei Zaloilo
 date: 2022-10-24
