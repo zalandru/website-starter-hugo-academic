@@ -29,7 +29,7 @@ abstract: "Firms hire workers from different pools. Some firms hire more
   heterogeneity increases the volatility of unemployment by 14%-34%."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Estimate wage cyclicality across jobs with different hiring pools. Firms hiring unemployed workers have the most rigid wages, which helps amplify unemployment volatility."
 
 tags: []
 featured: false
