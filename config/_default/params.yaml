@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Andrei Zaloilo. This work is licensed under {license}'
+    notice: '© {year} Andrei Zaloilo.
     license:
       enable: true
       allow_derivatives: false
