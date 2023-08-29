@@ -14,7 +14,7 @@ abstract: "Firms hire workers from different pools. Some firms hire more
   and heterogeneous wage rigidity and show that accounting for this
   heterogeneity increases the volatility of unemployment by 14%-34%."
 draft: false
-# slides: example
+ slides: example
 # url_pdf: https://github.com/zalandru/Papers/blob/c55d2f17b2153375aea2afd7405f825a45eea63a/Heterogeneous_Wage_Cyclicality_and_Unemployment_Fluctuations.pdf
  url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
 # links:
@@ -31,7 +31,7 @@ featured: false
 # tags: []
 date: 2023-03-15T00:00:00.000Z
 # url_slides: ""
-# projects: []
+ projects: []
 # image:
 #   caption: ""
 #  focal_point: ""
