@@ -21,7 +21,7 @@ email: andrei.zaloilo@tse-fr.eu
 ---
 <!--StartFragment-->
 
-I am a Ph.D. student [Toulouse School of Economics](https://www.tse-fr.eu).
+I am a Ph.D. student at the [Toulouse School of Economics](https://www.tse-fr.eu).
 
 My research focuses on macroeconomics and labor economics.
 
