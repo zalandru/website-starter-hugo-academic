@@ -2,7 +2,7 @@
 title: "Heterogeneous Wage Cyclicality and Unemployment Fluctuations"
 authors:
 - admin
-date: "2023-04-07T00:00:00Z"
+date: "2023-03-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -38,14 +38,14 @@ featured: false
 links:
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://github.com/zalandru/Papers/blob/c55d2f17b2153375aea2afd7405f825a45eea63a/Heterogeneous_Wage_Cyclicality_and_Unemployment_Fluctuations.pdf
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
