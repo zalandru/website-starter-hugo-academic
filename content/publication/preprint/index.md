@@ -1,6 +1,5 @@
 ---
-publication_types: 
--"3"
+publication_types: ["3"]
 authors:
   - admin
 publication_short: ""
@@ -17,7 +16,7 @@ summary: ""
 # url_project: ""
 # url_source: "#"
 # url_video: "#"
-title: Heterogeneous Wage Cyclicality and Unemployment Fluctuations
+title: Heterogeneous Wage Cyclicality and Unemployment Fluctuations123
 publication: ""
 featured: false
  tags: []
