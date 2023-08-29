@@ -15,11 +15,11 @@ abstract: "Firms hire workers from different pools. Some firms hire more
   heterogeneity increases the volatility of unemployment by 14%-34%."
 draft: false
 # slides: example
- url_pdf: https://github.com/zalandru/Papers/blob/c55d2f17b2153375aea2afd7405f825a45eea63a/Heterogeneous_Wage_Cyclicality_and_Unemployment_Fluctuations.pdf
+# url_pdf: https://github.com/zalandru/Papers/blob/c55d2f17b2153375aea2afd7405f825a45eea63a/Heterogeneous_Wage_Cyclicality_and_Unemployment_Fluctuations.pdf
 # url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
-# links:
-# - name: SSRN
-#  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
+ links:
+ - name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
 summary: ""
 # url_dataset: "#"
 # url_project: ""
