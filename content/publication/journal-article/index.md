@@ -1,41 +1,69 @@
 ---
-abstract: "Firms possess control over key determinants of workers' earnings :
-  wages, hours worked, and employment stability. As workers would rather all
-  three remain stable over the business cycle, firms face a choice as to how to
-  insure their workers. Empirically, firms at the bottom of the wage ladder are
-  found to insure workers through wages, while the top - through stable hours
-  and employment. We suggest a higher level of labor replaceability at the
-  bottom of the ladder as the driving cause of this heterogeneity and argue for
-  it using a dynamic contracting framework with a promised value constraint
-  imbedded into a directed search model."
-# slides: example
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "3"
+title: "An example preprint / working paper"
 authors:
-  - admin
-  - Pablo Mileni Munari
-  - Wenxuan Xu
-author_notes: []
-publication: ""
-summary: ""
-# url_dataset: ""
-# url_project: ""
-publication_short: ""
-# url_source: ""
-# url_video: ""
-title: "What Falls During a Recession - The Three Margins of Employment Insurance"
+- admin
+date: "2019-04-07T00:00:00Z"
 doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: ""
+publication_short: ""
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Source Themes
 featured: false
-tags: []
-projects: []
+
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-date: 2023-08-28T22:11:55.639Z
-# url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
-# url_poster: ""
-# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
