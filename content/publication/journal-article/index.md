@@ -1,7 +1,7 @@
 ---
 abstract: "Workers experience labor income risk when employers adjust their hourly wages, hours worked, and their separation rates into unemployment in response to productivity shocks. Using French matched employer-employee data, we document how different employers adjust each of these margins for workers with different jobs, thus determining the earnings risk of their employees. We find that high-paying jobs adjust mainly hourly wages in response to changes in the unemployment rate, at 2.6 times that of low-paying ones. At the same time, low-paying jobs adjust primarily hours worked and separation rates. Adjusting hours worked at 40 times the semi-elasticity of high-paying jobs, and 10 times the semi-elasticity for separation rates. We develop an equilibrium labor market search model that incorporates dynamic contracts that allow firms to share risks with their workers through different margins. Firms share risks with workers using margins that are less costly to them, given their heterogeneous cost of creating vacancies and the job mobility of their workers. Consequently, government policies that aim to reduce labor income risk by targeting only one margin (e.g., minimum wage, hours restrictions, firing cost regulation) can be ineffective due to firms offloading risks into other margins."
 # slides: example
-# url_pdf: [https://github.com/zalandru/Papers/blob/main/MXZ.pdf]
+url_pdf: [https://github.com/zalandru/Papers/blob/main/MXZ.pdf]
 publication_types:
   - "3"
 authors:
