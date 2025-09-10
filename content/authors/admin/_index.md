@@ -35,7 +35,7 @@ References:
 
 Christian Hellwig: christian.hellwig[at]tse-fr.eu
 
-Eugenia Gonzalez-Aguade: eugenia.gonzalez[at]tse-fr.eu
+Eugenia Gonzalez-Aguado: eugenia.gonzalez[at]tse-fr.eu
 
 Nicolas Werquin: nwerquin[at]gmail.com
 
