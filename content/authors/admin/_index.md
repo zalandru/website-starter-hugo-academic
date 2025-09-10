@@ -25,7 +25,8 @@ I am a Ph.D. student at the [Toulouse School of Economics](https://www.tse-fr.eu
 
 My research focuses on macroeconomics and labor economics.
 
-This semester I will be visiting the Economics Department of the [University of Pennsylvania](https://economics.sas.upenn.edu).
+You can find more information in my [CV](https://github.com/zalandru/website-starter-hugo-academic/blob/main/static/upload/CV%20Andrei%20Zaloilo.pdf).
 
+I am available for interviews during the 2025-2026 job market.
 Feel free to reach out: [andrei.zaloilo@tse-fr.eu](mailto:andrei.zaloilo@tse-fr.eu)
 <!--EndFragment-->
