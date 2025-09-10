@@ -18,15 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Firms hire workers from different pools. Some firms hire more
-  unemployed workers than others, making their demand for labor more important
-  for unemployment. I differentiate jobs based on their hiring pool and estimate
-  their wage cyclicality. The key finding is that wages in jobs hiring from
-  unemployment are half as cyclical as wages in other jobs, for both incumbent
-  workers and new hires. To measure the effects of this on unemployment
-  volatility, I develop a labor search model with partial separation of search
-  and heterogeneous wage rigidity and show that accounting for this
-  heterogeneity increases the volatility of unemployment by 14%-34%."
+abstract: "Wage rigidity as an amplification mechanism for the volatility of unemployment requires that jobs with rigid wages actually hire unemployed workers (rather than poach them from other firms). I differentiate jobs based on their hiring pool: whether they hire mostly unemployed or employed workers - and separately estimate their wage cyclicality. Using French matched employer-employee panel data, I find that wage rigidity varies significantly across jobs, with those engaging in worker poaching exhibiting more cyclical wages. I develop a labor search model with separation of search and heterogeneous wage cyclicality to measure the importance of distinguishing jobs by their hiring pool. The model reveals that rigid wages in jobs hiring unemployed workers have a disproportionately large effect on unemployment volatility compared to jobs poaching workers. Incorporating this heterogeneity yields a 20% increase in unemployment volatility."
 
 # Summary. An optional shortened abstract.
 summary: "Estimate wage cyclicality across jobs with different hiring pools. Firms hiring unemployed workers have the most rigid wages, which helps amplify unemployment volatility."
