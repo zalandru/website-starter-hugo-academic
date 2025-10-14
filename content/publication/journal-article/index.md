@@ -7,8 +7,8 @@ publication_types:
   - "3"
 authors:
   - admin
-  - [Pablo Mileni Munari](https://pablomileni.github.io)
-  - [Wenxuan Xu](https://sites.google.com/view/wenxuanxu)
+  - Pablo Mileni Munari
+  - Wenxuan Xu
 author_notes: []
 publication: ""
 summary: ""
