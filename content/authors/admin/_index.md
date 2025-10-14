@@ -25,7 +25,7 @@ I am a Ph.D. student at the [Toulouse School of Economics](https://www.tse-fr.eu
 
 My research focuses on macroeconomics and labor economics.
 
-You can find more information in my [CV](https://github.com/zalandru/website-starter-hugo-academic/blob/main/static/upload/CV%20Andrei%20Zaloilo.pdf).
+You can find more information in my [CV](https://raw.githack.com/zalandru/website-starter-hugo-academic/main/static/upload/CV%20Andrei%20Zaloilo.pdf).
 
 I am available for interviews during the 2025-2026 job market.
 
