@@ -29,7 +29,8 @@ featured: false
 links:
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4388232
-url_pdf: https://github.com/zalandru/Papers/blob/main/Zaloilo%20Heterogeneous%20Wage%20Cyclicality%20and%20Unemployment%20Fluctuations.pdf
+url_pdf: https://raw.githack.com/zalandru/Papers/main/Zaloilo%20Heterogeneous%20Wage%20Cyclicality%20and%20Unemployment%20Fluctuations.pdf
+
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
