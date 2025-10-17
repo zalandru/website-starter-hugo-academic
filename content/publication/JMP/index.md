@@ -15,7 +15,7 @@ summary: ""
 publication_short: ""
 # url_source: ""
 # url_video: ""
-title: "Endogenous Wage Rigidity and Layoffs"
+title: "Endogenous Wage Rigidity and Layoffs (Job Market Paper)"
 doi: ""
 featured: false
 tags: []
