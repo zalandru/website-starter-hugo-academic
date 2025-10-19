@@ -47,9 +47,10 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
-  quality: 75
-  anchor: smart
+  resampleFilter: Lanczos   # capitalized
+  quality: 90               # try 90–92 for photos
+  anchor: Smart             # capitalized
+  hint: photo               # helps Hugo pick encoders
 timeout: 600000
 taxonomies:
   tag: tags
