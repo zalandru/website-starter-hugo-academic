@@ -27,14 +27,17 @@ My research focuses on macroeconomics and labor economics.
 
 You can find more information in my [CV](https://raw.githack.com/zalandru/website-starter-hugo-academic/main/static/upload/CV%20Andrei%20Zaloilo.pdf).
 
-I am available for interviews during the 2025-2026 job market.
+**I am available for interviews during the 2025-2026 job market.**
 
 Feel free to reach out: [andrei.zaloilo[at]tse-fr.eu](mailto:andrei.zaloilo@tse-fr.eu)
 
 
-References:
-Christian Hellwig: christian.hellwig[at]tse-fr.eu
-Eugenia Gonzalez-Aguado: eugenia.gonzalez[at]tse-fr.eu
-Nicolas Werquin: nwerquin[at]gmail.com
-Dirk Krueger: dkrueger[at]econ.upenn.edu
+## **References**:
+- Christian Hellwig: christian.hellwig[at]tse-fr.eu
+
+- Eugenia Gonzalez-Aguado: eugenia.gonzalez[at]tse-fr.eu
+
+- Nicolas Werquin: nwerquin[at]gmail.com
+
+- Dirk Krueger: dkrueger[at]econ.upenn.edu
 <!--EndFragment-->
