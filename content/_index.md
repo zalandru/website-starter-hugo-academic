@@ -9,7 +9,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Welcome!
+      title: Andrei Zaloilo
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
@@ -24,7 +24,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: compact
+      view: card
       # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
