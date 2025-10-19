@@ -1,0 +1,31 @@
+/* --- Make avatar square & avoid cropping --- */
+
+/* Remove the circular mask some themes add */
+.avatar,
+.avatar img,
+.avatar .avatar__image {
+  border-radius: 0 !important;
+  overflow: visible;                 /* don’t clip corners */
+}
+
+/* Some builds force a 1:1 box—undo that */
+.avatar {
+  height: auto !important;           /* allow natural height */
+  width: 260px;                      /* pick your desktop width */
+  max-width: 100%;                   /* stay responsive */
+}
+
+/* Keep the full rectangle visible (no crop) */
+.avatar img,
+.avatar .avatar__image {
+  width: 100%;
+  height: auto !important;
+  object-fit: contain !important;    /* show entire image; use 'cover' if you WANT a crop */
+  aspect-ratio: auto !important;     /* undo any forced square aspect */
+  display: block;
+}
+
+/* Optional: smaller on phones */
+@media (max-width: 640px) {
+  .avatar { width: 160px; }
+}
