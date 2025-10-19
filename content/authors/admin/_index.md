@@ -32,7 +32,9 @@ You can find more information in my [CV](https://raw.githack.com/zalandru/websit
 Feel free to reach out: [andrei.zaloilo[at]tse-fr.eu](mailto:andrei.zaloilo@tse-fr.eu)
 
 
-## **References**:
+
+
+**References**:
 - Christian Hellwig: christian.hellwig[at]tse-fr.eu
 
 - Eugenia Gonzalez-Aguado: eugenia.gonzalez[at]tse-fr.eu
