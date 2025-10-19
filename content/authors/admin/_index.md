@@ -29,17 +29,17 @@ You can find more information in my [CV](https://raw.githack.com/zalandru/websit
 
 **I am available for interviews during the 2025-2026 job market.**
 
-Feel free to reach out: [andrei.zaloilo[at]tse-fr.eu](mailto:andrei.zaloilo@tse-fr.eu)
+You can contact me at [andrei.zaloilo@tse-fr.eu](mailto:andrei.zaloilo@tse-fr.eu)
 
 
 
 
-**References**:
-- Christian Hellwig: christian.hellwig[at]tse-fr.eu
+#### **References**:
+- **Christian Hellwig**: christian.hellwig@tse-fr.eu
 
-- Eugenia Gonzalez-Aguado: eugenia.gonzalez[at]tse-fr.eu
+- **Eugenia Gonzalez-Aguado**: eugenia.gonzalez@tse-fr.eu
 
-- Nicolas Werquin: nwerquin[at]gmail.com
+- **Nicolas Werquin**: nwerquin@gmail.com
 
-- Dirk Krueger: dkrueger[at]econ.upenn.edu
+- **Dirk Krueger**: dkrueger@econ.upenn.edu
 <!--EndFragment-->
