@@ -76,6 +76,9 @@ features:
   avatar:
     gravatar: false
     shape: square
+  imaging:
+  quality: 90           # 80–92 is a good range
+  resampleFilter: Lanczos
   comment:
     provider: ''
     disqus:
