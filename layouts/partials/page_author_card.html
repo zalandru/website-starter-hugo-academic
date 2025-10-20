@@ -14,17 +14,25 @@
   {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
 <div class="flex">
-  {{ if $avatar }}
-  {{ $avatar_image := $avatar.Resize "270x" }}  {{/* keeps aspect ratio; no crop */}}
+{{ if $avatar }}
+  {{/* Choose your display width in CSS pixels */}}
+  {{ $avatar_w := 320 }}
+
+  {{/* Generate 1x and 2x versions without cropping (keeps aspect) */}}
+  {{ $img1x := $avatar.Resize (printf "%dx" $avatar_w) }}
+  {{ $img2x := $avatar.Resize (printf "%dx" (mul $avatar_w 2)) }}
+
   <img
-    class="mr-4 h-24 w-24 {{if ne $avatar_shape "square"}}rounded-full{{end}}"
-    width="96"
-    height="96"
-    alt="{{$author_page.Title}}"
-  src="{{ $authorImage.RelPermalink }}"
-  loading="lazy"
+    class="mr-4 {{ if ne $avatar_shape "square" }}rounded-full{{ end }}"
+    alt="{{ $author_page.Title }}"
+    src="{{ $img1x.RelPermalink }}"
+    srcset="{{ $img1x.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
+    width="{{ $img1x.Width }}"
+    height="{{ $img1x.Height }}"
+    loading="lazy"
   />
-  {{ end }}
+{{ end }}
+
   <div class="place-self-center">
     <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
       {{ i18n "authors" }}
