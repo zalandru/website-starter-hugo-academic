@@ -21,7 +21,7 @@
   {{/* Generate 1x and 2x versions without cropping (keeps aspect) */}}
   {{ $img1x := $avatar.Resize (printf "%dx" $avatar_w) }}
   {{ $img2x := $avatar.Resize (printf "%dx" (mul $avatar_w 2)) }}
-
+<!-- DEBUG: using custom page_author_card -->
   <img
     class="mr-4 {{ if ne $avatar_shape "square" }}rounded-full{{ end }}"
     alt="{{ $author_page.Title }}"
