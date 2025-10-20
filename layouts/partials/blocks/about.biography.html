@@ -14,7 +14,7 @@
           {{ $avatar := ($author.Resources.ByType "image").GetMatch "*avatar*" }}
           {{ if $avatar }}
             <!-- DEBUG: custom blocks/about.biography.html -->
-            {{ $w := 320 }}
+            {{ $w := 480 }}
             {{ $img1x := $avatar.Resize (printf "%dx" $w) }}
             {{ $img2x := $avatar.Resize (printf "%dx" (mul $w 2)) }}
             <img
