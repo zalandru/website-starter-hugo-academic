@@ -1,0 +1,17 @@
+{{/* Minimal override to stop square crop on author pages */}}
+{{ $author_page := . }}
+{{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ if $avatar }}
+  <!-- DEBUG: using custom page_author -->
+  {{ $avatar_w := 320 }}
+  {{ $img1x := $avatar.Resize (printf "%dx" $avatar_w) }}
+  {{ $img2x := $avatar.Resize (printf "%dx" (mul $avatar_w 2)) }}
+  <img
+    class="{{ if ne (site.Params.features.avatar.shape | default "circle") "square" }}rounded-full{{ end }}"
+    alt="{{ $author_page.Title }}"
+    src="{{ $img1x.RelPermalink }}"
+    srcset="{{ $img1x.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
+    width="{{ $img1x.Width }}" height="{{ $img1x.Height }}"
+    loading="lazy"
+  />
+{{ end }}
