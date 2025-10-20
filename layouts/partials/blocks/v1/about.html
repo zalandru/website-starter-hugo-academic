@@ -1,0 +1,19 @@
+{{/* Override: About (v1 block) - stop square crop */}}
+{{ $section := . }}
+{{ $username := $section.Params.author | default "admin" }}
+{{ $author := site.GetPage (printf "authors/%s" $username) }}
+{{ if $author }}
+  {{ $avatar := ($author.Resources.ByType "image").GetMatch "*avatar*" }}
+  {{ if $avatar }}
+    <!-- DEBUG: custom blocks/v1/about.html -->
+    {{ $w := 320 }}
+    {{ $img1x := $avatar.Resize (printf "%dx" $w) }}
+    {{ $img2x := $avatar.Resize (printf "%dx" (mul $w 2)) }}
+    <img class="avatar avatar-square"
+         alt="{{ $author.Title }}"
+         src="{{ $img1x.RelPermalink }}"
+         srcset="{{ $img1x.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
+         width="{{ $img1x.Width }}" height="{{ $img1x.Height }}"
+         loading="lazy">
+  {{ end }}
+{{ end }}
