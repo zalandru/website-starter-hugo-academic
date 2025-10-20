@@ -1,19 +1,51 @@
-{{/* Override: Biography block - stop square crop */}}
+{{/* Biography block override: keep full layout, stop square crop */}}
 {{ $section := . }}
 {{ $username := $section.Params.author | default "admin" }}
 {{ $author := site.GetPage (printf "authors/%s" $username) }}
+
 {{ if $author }}
-  {{ $avatar := ($author.Resources.ByType "image").GetMatch "*avatar*" }}
-  {{ if $avatar }}
-    <!-- DEBUG: custom blocks/about.biography.html -->
-    {{ $w := 320 }}
-    {{ $img1x := $avatar.Resize (printf "%dx" $w) }}
-    {{ $img2x := $avatar.Resize (printf "%dx" (mul $w 2)) }}
-    <img class="avatar avatar-square"
-         alt="{{ $author.Title }}"
-         src="{{ $img1x.RelPermalink }}"
-         srcset="{{ $img1x.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
-         width="{{ $img1x.Width }}" height="{{ $img1x.Height }}"
-         loading="lazy">
-  {{ end }}
+  <div class="home-section-bg"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <div id="profile">
+
+          {{/* AVATAR (no cropping): generate 1x/2x width variants */}}
+          {{ $avatar := ($author.Resources.ByType "image").GetMatch "*avatar*" }}
+          {{ if $avatar }}
+            <!-- DEBUG: custom blocks/about.biography.html -->
+            {{ $w := 320 }}
+            {{ $img1x := $avatar.Resize (printf "%dx" $w) }}
+            {{ $img2x := $avatar.Resize (printf "%dx" (mul $w 2)) }}
+            <img
+              class="avatar avatar-square"
+              alt="{{ $author.Title }}"
+              src="{{ $img1x.RelPermalink }}"
+              srcset="{{ $img1x.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
+              width="{{ $img1x.Width }}" height="{{ $img1x.Height }}"
+              loading="lazy">
+          {{ end }}
+
+          {{/* NAME + ROLE */}}
+          <div class="portrait-title">
+            <h2>{{ $author.Title }}</h2>
+            {{ with $author.Params.role }}<h3>{{ . }}</h3>{{ end }}
+          </div>
+
+          {{/* SOCIAL/LINK ICONS */}}
+          <ul class="network-icon" aria-hidden="true">
+            {{ partial "social_links" $author }}
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-12 col-lg-8">
+        <div class="article-style">
+          {{/* Render the author’s markdown from content/authors/<user>/_index.md */}}
+          {{ $author.Content }}
+        </div>
+        <div class="row"></div>
+      </div>
+    </div>
+  </div>
 {{ end }}
