@@ -2,6 +2,8 @@
 avatar_filename: avatar.jpg
 bio: ""
 superuser: true
+first_name: Andrei
+last_name: Zaloilo
 ---
 <!--StartFragment-->
 
