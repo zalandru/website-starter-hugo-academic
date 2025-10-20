@@ -5,9 +5,6 @@ avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:andrei.zaloilo@tse-fr.eu
   - icon: CV
     icon_pack: ai
     link: upload/CV Andrei Zaloilo.pdf
