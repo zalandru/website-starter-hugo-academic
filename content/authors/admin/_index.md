@@ -1,6 +1,16 @@
 ---
+title: Andrei Zaloio
+role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: ""
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:andrei.zaloilo@tse-fr.eu
+  - icon: CV
+    icon_pack: ai
+    link: upload/CV Andrei Zaloilo.pdf
 superuser: true
 last_name: Zaloilo
 highlight_name: True
