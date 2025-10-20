@@ -3,9 +3,7 @@
 {{ $site_type := site.Params.marketing.seo.site_type | default "Person" }}
 {{- $has_profile := not (eq nil $author_page.Params.superuser) -}}
 
-{{/* Check an author profile exists. */}}
 {{ if $has_profile }}
-  {{/* If it's a personal site and primary page author is superuser, link to the homepage rather than their profile page. */}}
   {{ $profile_url := $author_page.RelPermalink }}
   {{ if and (eq $site_type "Person") (eq $author_page.Params.superuser true) }}
     {{ $profile_url = site.BaseURL }}
@@ -14,24 +12,20 @@
   {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
 <div class="flex">
-{{ if $avatar }}
-  {{/* Choose your display width in CSS pixels */}}
+  {{ if $avatar }}
+  <!-- DEBUG: using custom page_author_card -->
   {{ $avatar_w := 320 }}
-
-  {{/* Generate 1x and 2x versions without cropping (keeps aspect) */}}
   {{ $img1x := $avatar.Resize (printf "%dx" $avatar_w) }}
   {{ $img2x := $avatar.Resize (printf "%dx" (mul $avatar_w 2)) }}
-<!-- DEBUG: using custom page_author_card -->
   <img
     class="mr-4 {{ if ne $avatar_shape "square" }}rounded-full{{ end }}"
     alt="{{ $author_page.Title }}"
     src="{{ $img1x.RelPermalink }}"
     srcset="{{ $img1x.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
-    width="{{ $img1x.Width }}"
-    height="{{ $img1x.Height }}"
+    width="{{ $img1x.Width }}" height="{{ $img1x.Height }}"
     loading="lazy"
   />
-{{ end }}
+  {{ end }}
 
   <div class="place-self-center">
     <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
