@@ -10,9 +10,9 @@
 
 /* Some builds force a 1:1 box—undo that */
 .avatar {
+  width: 100%;                      /* pick your desktop width */
   height: auto !important;           /* allow natural height */
-  width: 260px;                      /* pick your desktop width */
-  max-width: 100%;                   /* stay responsive */
+  max-width: 480px;                   /* stay responsive */
 }
 
 /* Keep the full rectangle visible (no crop) */
@@ -25,7 +25,6 @@
   display: block;
 }
 
-/* Optional: smaller on phones */
-@media (max-width: 640px) {
-  .avatar { width: 160px; }
+@media (max-width: 991.98px) {      /* Bootstrap lg breakpoint */
+  #profile .avatar { max-width: 260px; }
 }
