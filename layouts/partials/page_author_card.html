@@ -15,7 +15,7 @@
 
 <div class="flex">
   {{ if $avatar }}
-  {{ $authorImage := $avatar.Fill "192x192 Center" }}
+  {{ $avatar_image := $avatar.Resize "270x" }}  {{/* keeps aspect ratio; no crop */}}
   <img
     class="mr-4 h-24 w-24 {{if ne $avatar_shape "square"}}rounded-full{{end}}"
     width="96"
