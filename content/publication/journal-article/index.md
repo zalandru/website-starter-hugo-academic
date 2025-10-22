@@ -7,7 +7,7 @@ publication_types:
   - "3"
 authors:
   - admin
-  - Pablo
+  - pablo
   - Wenxuan Xu
 author_notes: []
 publication: ""
