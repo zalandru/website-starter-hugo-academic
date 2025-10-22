@@ -1,5 +1,5 @@
 ---
-title: "Pablo Milini Munari"
+title: "Pablo Mileni Munari"
 draft: false
 redirect: "https://pablomileni.github.io/"
 ---
