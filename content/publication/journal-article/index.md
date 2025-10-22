@@ -7,7 +7,7 @@ publication_types:
   - "3"
 authors:
   - admin
-  - Pablo Mileni Munari
+  - Pablo
   - Wenxuan Xu
 author_notes: []
 publication: ""
