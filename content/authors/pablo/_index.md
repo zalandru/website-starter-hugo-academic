@@ -1,5 +1,5 @@
 ---
-name: "Pablo García"
+title: "Pablo García"
 role: "Co-author"
 organization: "Example University"
 # add a Website icon under the bio:
