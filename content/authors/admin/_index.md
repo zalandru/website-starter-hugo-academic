@@ -1,5 +1,5 @@
 ---
-title: Andrei Zaloio
+title: Andrei Zaloilo
 role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: ""
